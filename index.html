@@ -62,6 +62,9 @@
                             By {{ post.author | escape }}
                             {{ post.date | date: "%B %-d, %Y"}}
                         </p>
+                        <p>
+                            {{ post.body | escape }}
+                        </p>
                     </article>
                 {% endfor %}
             </div>
