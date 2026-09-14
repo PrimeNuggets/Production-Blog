@@ -1,6 +1,6 @@
 ---
 title: test poast
-author: vivian
+author: Vivian
 date: 2026-09-14
 ---
 bad poast sorry :(
