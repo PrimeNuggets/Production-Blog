@@ -59,13 +59,14 @@
             </h2>
             <div class="posts">
                 {% for post in site.posts %}
-                <article class="post">
-                    <h3>{{ post.title | escape }}</h3>
-                    <p>
-                        By {{ post.author | escape }}
-                        {{ post.date | date: "%B %-d, %Y"}}
-                    </p>
-                </article>
+                    <article class="post">
+                        <h3>{{ post.title | escape }}</h3>
+                        <p>
+                            By {{ post.author | escape }}
+                            {{ post.date | date: "%B %-d, %Y"}}
+                        </p>
+                    </article>
+                {% endfor %}
             </div>
         </div>
     </body>
