@@ -1,3 +1,5 @@
+---
+---
 <!doctype html>
 <html lang="en">
     <head>
@@ -55,7 +57,16 @@
             <h2 id="logs">
                 Dev Logs
             </h2>
-            <div></div>
+            <div class="posts">
+                {% for post in site.posts %}
+                <article class="post">
+                    <h3>{{ post.title | escape }}</h3>
+                    <p>
+                        By {{ post.author | escape }}
+                        {{ post.date | date: "%B %-d, %Y"}}
+                    </p>
+                </article>
+            </div>
         </div>
     </body>
 </html>
