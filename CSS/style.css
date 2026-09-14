@@ -14,7 +14,3 @@ div.gridDisplay {
     gap: 1rem;
     text-align: center;
 }
-
-#optionsButton {
-    justify-content: right;
-}
