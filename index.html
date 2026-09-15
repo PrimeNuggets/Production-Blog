@@ -20,6 +20,29 @@
             <a href="#logs">Jump To: Dev Logs</a>
         </nav-->
         <br>
+
+        <div class="section">
+            <h2 style="text-align: center;">
+                About Lizard Wizard
+            </h2>
+
+            <p>
+                Lizard Wizard is a very smooth balance of relaxing sliding and momentum-based movement.
+                A whimsical 3D puzzle-platformer where you build speed across the dunes,
+                carry your inertia through jumps and obstacles, choose your route carefully,
+                and deliver water to thirsty critters before you run out. Or they perish of thirst.
+            </p>
+
+            <h3>
+                Project Information
+            </h3>
+
+            <p><strong>Game:</strong> Lizard Wizard</p>
+            <p><strong>Team Size:</strong> 5 Developers</p>
+            <p><strong>Status:</strong> In Development</p>
+        </div>
+
+        <br>
         <div class="section">
             <h2 style="text-align: center;">
                 Developers
@@ -62,9 +85,8 @@
                             By {{ post.author | escape }}
                             {{ post.date | date: "%B %-d, %Y"}}
                         </p>
-                        <p>
+                        <!-- let Jekyll render the post's HTML directly. -->
                             {{ post.content }}
-                        </p>
                     </article>
                 {% endfor %}
             </div>
