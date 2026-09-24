@@ -1,10 +1,10 @@
 media:
-  name: images
-  input: assets/images
-  output: /Production-Blog/assets/images
-  name: videos
-  input: assets/videos
-  output: /Production-Blog/assets/videos
+  - name: images
+    input: assets/images
+    output: /Production-Blog/assets/images
+  - name: videos
+    input: assets/videos
+    output: /Production-Blog/assets/videos
 
 content:
   - name: posts
