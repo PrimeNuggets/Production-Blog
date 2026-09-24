@@ -1,6 +1,5 @@
 ---
-"Title:": first terrain gen
-"author:": vivian
+author: Vivian
 date: 2026-09-23
 ---
 ![firstgen](/Production-Blog/assets/images/firstgen.png)
