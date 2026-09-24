@@ -2,6 +2,10 @@ media:
   name: images
   input: assets/images
   output: /Production-Blog/assets/images
+media:
+  name: videos
+  input: assets/videos
+  output: /Production-Blog/assets/videos
 
 content:
   - name: posts
@@ -26,4 +30,5 @@ content:
         label: Post
         type: rich-text
         options:
+          media: videos
           media: images
