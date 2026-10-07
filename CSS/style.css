@@ -89,7 +89,7 @@ div.gridDisplay {
     font-size: 0.9rem;
 }
 
-img, video {
+img, video, iframe {
     max-width: 100%;
     height: auto;
     border-radius: 6px;
