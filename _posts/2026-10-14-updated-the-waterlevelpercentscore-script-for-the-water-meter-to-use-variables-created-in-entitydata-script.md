@@ -8,3 +8,5 @@ Essentially, everything is the same, just some under-the-hood reassignment to us
 
 In Unity, the EntityData's water stat in parameters was set to 0 and wasn't updated, so my code was just dividing by zero, which is why the meter wasn't draining properly. By setting it to the given maximum, that issue was fixed.
 
+![image.png](/Production-Blog/assets/images/image.png)
+
