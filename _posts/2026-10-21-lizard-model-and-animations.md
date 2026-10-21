@@ -8,7 +8,7 @@ The lizard took a lot more work than just making a model and adding a few animat
 I kept coming back to Super Mario Odyssey while working on the animations. I like how clearly you can read a movement before it happens, and how the character doesn’t stop dead at the end of it. I’ve been trying that with the lizard: a small dip before a move, a stronger main pose, then a bit of follow-through in the head and tail.
 
 That anticipation will matter even more when I work on enemies. Players need to be able to tell what an enemy is about to do so they have time to react. The short video below shows where I’m at with the lizard’s Sprawl, Surf, and Jump animations.  
-  
+
 Next I have to work on animations like turns, damaged, etc.
 
 ![](/Production-Blog/assets/images/Lizard_Topology.png)
