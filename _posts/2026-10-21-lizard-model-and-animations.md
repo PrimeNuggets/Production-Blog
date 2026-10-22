@@ -13,4 +13,11 @@ Next I have to work on animations like turns, damaged, etc.
 
 ![](/Production-Blog/assets/images/Lizard_Topology.png)
 
-[https://youtu.be/UDsoPQbUzvk](https://youtu.be/UDsoPQbUzvk)
+<iframe
+  width="100%"
+  height="480"
+  src="https://www.youtube.com/embed/UDsoPQbUzvk"
+  title="Lizard Wizard animations"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
