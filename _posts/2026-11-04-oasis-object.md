@@ -12,3 +12,4 @@ Blender:
 The in game shader replacement:
 
 [https://youtu.be/X4xgcvDZPio](https://youtu.be/X4xgcvDZPio)
+<iframe width="1521" height="561" src="https://www.youtube.com/embed/X4xgcvDZPio" title="2026 11 04 13 44 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
